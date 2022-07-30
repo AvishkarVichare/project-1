@@ -1,4 +1,4 @@
-## Project-1
+## Project-1 # [live Link](https://streetstyledesign.netlify.app/)
 
 **Name:** Avishkar Vichare
 
@@ -9,4 +9,4 @@
 
 **The project took 9 hours to complete.** 
 
-# [live Link](https://streetstyledesign.netlify.app/)
+
