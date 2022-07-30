@@ -2,7 +2,7 @@
 
 **Name:** Avishkar Vichare
 
-**What I learnt in this project**:
+**What I learned in this project**:
 
   - I learned how to use position , how they really works, how they are different.
   - I learned to create navbar link hover effect.
