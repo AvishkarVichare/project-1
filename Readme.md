@@ -6,6 +6,7 @@
 
   - I learned how to use position , how they really works, how they are different.
   - I learned to create navbar link hover effect.
+  - Learned about before after pseudo selectors.
 
 **The project took ***9 Hours*** to complete.** 
 
